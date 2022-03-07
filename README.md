@@ -1,7 +1,8 @@
-# Authentication-Movies
+# REAL authentication-Movies
+
 This a real website which have 
 1. Real authentication system (Login/Register) 
 2. Using of API for Movie/ Tv/ Artists 
 ## by using ANGULAR JS
 
-# you can register and login for testing
+### You can register and login for testing
